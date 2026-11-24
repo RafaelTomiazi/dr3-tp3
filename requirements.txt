@@ -1,0 +1,7 @@
+langchain>=1.0
+langchain-openai
+langchain-google-genai
+langgraph
+streamlit
+python-dotenv
+requests
